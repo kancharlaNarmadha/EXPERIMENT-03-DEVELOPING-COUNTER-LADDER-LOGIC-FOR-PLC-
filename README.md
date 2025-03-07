@@ -79,6 +79,11 @@ Counters in PLCs are used to count events or occurrences, such as the number of 
 
 ### Problem Statement:
 
+Design PLC ladder logic that reads input from 2 sensors providing counting operation starting from 0 to 10. Also switch ON conveyer but reaching packet station and seal packet after 5s of delay.
+
+![Actual problem statement 3](https://github.com/user-attachments/assets/02c25f5e-960c-429e-8f73-72a6c2755a61)
+
+
 
 ### Results
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
